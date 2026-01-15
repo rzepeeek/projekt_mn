@@ -1,0 +1,11 @@
+Kolejność odpalania projektu:
+
+1. check_dataset_sync.py
+2. Dataset.py
+3. model_benchmark.py
+4. model_train.py
+5. visualize_test_txt.py
+6. visualize_test_txt2.py
+7. visualize_test.py
+8. visualize_test2.py
+9. performance_benchmark.py
